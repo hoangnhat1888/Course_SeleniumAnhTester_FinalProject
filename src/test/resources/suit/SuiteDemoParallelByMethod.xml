@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite Demo Parallel By Methods" verbose="1">
+    <test name="Demo Parallel Testing By Methods" parallel="methods">
+        <classes>
+            <class name="com.anhtester.Prac25_ParallelExecution.ParallelTest"></class>
+        </classes>
+    </test>
+</suite>

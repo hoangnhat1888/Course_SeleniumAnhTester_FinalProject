@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e47fb504-46cc-4183-bc8f-315488b71c61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Java/com/anhtester/PageObjectModel/pages/TaskPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Java/com/anhtester/PageObjectModel/pages/TaskPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qcerVtVy0eByWdLyOSOh72b96V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/AutomationFinalProject/CourseSeleniumTestNG102024/target/test-classes/suit/SuiteParallelByMethod_POM1102.xml.executor": "Run",
+    "TestNG.C:/AutomationFinalProject/CourseSeleniumTestNG102024/target/test-classes/suit/Suite_POM_FinalProjectAnhTester_Selenium.xml.executor": "Run",
+    "TestNG.CustomerTest.testAddNewCustomer.executor": "Run",
+    "TestNG.DashboardTest.verifyCheckSelectionQuickStaticsDisplay.executor": "Run",
+    "TestNG.DashboardTest.verifyCheckTotalSelectionQuickStatics.executor": "Run",
+    "TestNG.DemoDataProvider.executor": "Run",
+    "TestNG.DemoDataProvider.testDataProvider1.executor": "Run",
+    "TestNG.DemoExcelFile.getDataFromExcel.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testLoginFailWithEmailInvalid.executor": "Debug",
+    "TestNG.LoginTest.testLoginSuccess.executor": "Run",
+    "TestNG.ProjectTest.executor": "Run",
+    "TestNG.ProjectTest.verifyAddNewPrjSuccessfully.executor": "Run",
+    "TestNG.ProjectTest.verifyNewTask.executor": "Run",
+    "TestNG.TaskTest.verifyNewTask.executor": "Run",
+    "git-widget-placeholder": "MaisonPraticeGit",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/AutomationFinalProject/CourseSeleniumTestNG102024/src/test/resources/suit",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AutomationFinalProject\CourseSeleniumTestNG102024\src\test\resources\suit" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.anhtester.PageObjectModel.testcases" />
+      <recent name="com.anhtester.PageObjectModel.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/AutomationFinalProject/CourseSeleniumTestNG102024/target/test-classes/suit/Suite_POM_FinalProjectAnhTester_Selenium.xml">
+    <configuration name="C:/AutomationFinalProject/CourseSeleniumTestNG102024/target/test-classes/suit/Suite_POM_FinalProjectAnhTester_Selenium.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/test-classes/suit/Suite_POM_FinalProjectAnhTester_Selenium.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardTest.verifyCheckSelectionQuickStaticsDisplay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CourseSeleniumTestNG102024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.PageObjectModel.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anhtester.PageObjectModel.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.PageObjectModel.testcases.DashboardTest" />
+      <option name="METHOD_NAME" value="verifyCheckSelectionQuickStaticsDisplay" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardTest.verifyCheckTotalSelectionQuickStatics" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CourseSeleniumTestNG102024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.PageObjectModel.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anhtester.PageObjectModel.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.PageObjectModel.testcases.DashboardTest" />
+      <option name="METHOD_NAME" value="verifyCheckTotalSelectionQuickStatics" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLoginFailWithEmailInvalid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CourseSeleniumTestNG102024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.PageObjectModel.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anhtester.PageObjectModel.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.PageObjectModel.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="testLoginFailWithEmailInvalid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLoginSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CourseSeleniumTestNG102024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anhtester.PageObjectModel.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anhtester.PageObjectModel.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.anhtester.PageObjectModel.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="testLoginSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/AutomationFinalProject/CourseSeleniumTestNG102024/target/test-classes/suit/Suite_POM_FinalProjectAnhTester_Selenium.xml" />
+        <item itemvalue="TestNG.DashboardTest.verifyCheckTotalSelectionQuickStatics" />
+        <item itemvalue="TestNG.LoginTest.testLoginFailWithEmailInvalid" />
+        <item itemvalue="TestNG.LoginTest.testLoginSuccess" />
+        <item itemvalue="TestNG.DashboardTest.verifyCheckSelectionQuickStaticsDisplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e47fb504-46cc-4183-bc8f-315488b71c61" name="Changes" comment="" />
+      <created>1734966489274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734966489274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/Java/com/anhtester/PageObjectModel/testcases/DashboardTest.java</url>
+          <line>11</line>
+          <properties class="com.anhtester.PageObjectModel.testcases.DashboardTest" method="verifyCheckSelectionQuickStaticsDisplay">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Java/com/anhtester/PageObjectModel/pages/CommonPage.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
