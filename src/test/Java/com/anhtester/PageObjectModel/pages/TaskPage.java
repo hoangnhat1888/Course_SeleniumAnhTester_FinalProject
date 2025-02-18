@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
+@Listeners({TestListener.class})
 
 public class TaskPage extends CommonPage {
 

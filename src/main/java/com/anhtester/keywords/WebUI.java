@@ -41,7 +41,6 @@ public class WebUI {
     public static Boolean checkElementExist(By by) {
         sleep(2);
         List<WebElement> listElement = getListWebElement(by);
-
         if (listElement.size() > 0) {
             System.out.println("✅ Check Element Exist: " + true + " ---> " + by);
             return true;

@@ -5,7 +5,7 @@ import com.anhtester.PageObjectModel.pages.LoginPage;
 import com.anhtester.common.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+@Listeners({TestListener.class})
 public class CustomerTest extends BaseTest {
     CommonPage commonPage;
     LoginPage loginPage;

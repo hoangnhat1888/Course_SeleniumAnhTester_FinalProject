@@ -5,7 +5,7 @@ import com.anhtester.common.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-
+@Listeners({TestListener.class})
 public class TaskTest extends BaseTest {
     LoginPage loginPage;// Khai bao doi tuong toan' cuc. thag nao dung thi thag do khoi tao
     ProjectPage projectPage;

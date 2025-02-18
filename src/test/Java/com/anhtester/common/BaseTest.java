@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.*;
 
-@Listeners(TestListener.class)
+@Listeners({TestListener.class})
 public class BaseTest {
     public WebDriver driver;
 
@@ -17,7 +17,6 @@ public class BaseTest {
 
     public void createDriver(@Optional("chrome") String browser)
     {
-//        WebDriver driver = setupDriver(browser);
         if(PropertiesHelper.getValue("BROWSER").isEmpty() || PropertiesHelper.getValue("BROWSER") == null){
             driver = setupDriver(PropertiesHelper.getValue("BROWSER"));
         }else {

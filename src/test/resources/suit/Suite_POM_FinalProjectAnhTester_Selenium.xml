@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite Demo Final project AnhTester Teacher" verbose="1">
+<test name="Suite Demo Final project AnhTester Teacher" parallel="methods" thread-count="1">
+    <classes>
+        <class name="com.anhtester.PageObjectModel.testcases.LoginTest"></class>
+        <class name="com.anhtester.PageObjectModel.testcases.CustomerTest"></class>
+        <class name="com.anhtester.PageObjectModel.testcases.ProjectTest"></class>
+        <class name="com.anhtester.PageObjectModel.testcases.TaskTest"></class>
+    </classes>
+</test>
+</suite>
